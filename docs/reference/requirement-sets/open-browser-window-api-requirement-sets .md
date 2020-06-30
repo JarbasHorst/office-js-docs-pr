@@ -31,7 +31,7 @@ For information about Common API requirement sets, see [Office Common API requir
 
 ## OpenBrowserWindow API 1.1
 
-The OpenBrowserWindow API 1.1 is the first version of the API. For details about the API, see the [Office..context.ui
+The OpenBrowserWindow API 1.1 is the first version of the API. For details about the API, see the [Office.context.ui
 ](/javascript/api/office/office.context.ui) reference topic.
 
 ## See also
