@@ -16,7 +16,7 @@ Office Add-ins run across multiple versions of Office. The following table lists
 
 |  Requirement set  | Office 2013 on Windows or later<br>(one-time purchase) | Office on Windows<br>(connected to Office 365 subscription) |  Office on iPad<br>(connected to Office 365 subscription)  |  Office on Mac<br>(connected to Office 365 subscription)  | Office on the web  |  Office Online Server  |
 |:-----|-----|:-----|:-----|:-----|:-----|:-----|:-----|
-| RibbonApi 1.1  | ?? | Version ???? (Build ?????.?????) or later | ??.?? or later | ??.?? or later | N/A | N/A|
+| OpenBrowserWindowAPI 1.1  | ?? | Version ???? (Build ?????.?????) or later | ??.?? or later | ??.?? or later | N/A | N/A|
 
 To find out more about versions, build numbers, and Office Online Server, see:
 
