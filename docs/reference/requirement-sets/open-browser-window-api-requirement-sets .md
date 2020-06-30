@@ -29,9 +29,9 @@ To find out more about versions, build numbers, and Office Online Server, see:
 
 For information about Common API requirement sets, see [Office Common API requirement sets](office-add-in-requirement-sets.md).
 
-## OpenBrowserWindow API 1.1
+## OpenBrowserWindowAPI 1.1
 
-The OpenBrowserWindow API 1.1 is the first version of the API. For details about the API, see the [Office.context.ui
+The OpenBrowserWindowAPI 1.1 is the first version of the API. For details about the API, see the [Office.context.ui
 ](/javascript/api/office/office.context.ui) reference topic.
 
 ## See also
